@@ -8,4 +8,4 @@ It features:
   Recent Posts and Blog Posts sections showcasing the latest jewellery items and expert articles.
   A Contact section with a user-friendly form for visitors to send inquiries.
   A footer with navigation links and social media icons for easy access and connectivity.
-  The design uses Bootstrap 5 for responsiveness and layout, custom CSS for styling, and Bootstrap icons for social media links. The site is   structured with semantic HTML5 elements for clarity and accessibility.
+  The design uses Bootstrap 5 for responsiveness and layout, custom CSS 3 for styling, and Bootstrap icons for social media links. The site is   structured with semantic HTML5 elements for clarity and accessibility.
